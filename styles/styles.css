@@ -12,3 +12,14 @@
 body {
   background-color: rgb(156, 151, 151);
 }
+.screen {
+  background-color: black;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: right;
+  height: 15vh;
+  font-size: x-large;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  color: white;
+}

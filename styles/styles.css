@@ -23,3 +23,16 @@ body {
   border-top-right-radius: 10px;
   color: white;
 }
+button {
+  min-height: 60px;
+  font-size: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.151);
+}
+.equal {
+  grid-column: 4;
+  grid-row: 2 / 6;
+  background-color: rgb(255, 56, 56);
+}
+.operator {
+  background-color: rgb(255, 128, 0);
+}

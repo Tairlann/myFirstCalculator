@@ -1,0 +1,14 @@
+.calc {
+  width: 400px;
+  height: auto;
+  margin: 50px auto;
+}
+
+.keys {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+body {
+  background-color: rgb(156, 151, 151);
+}
